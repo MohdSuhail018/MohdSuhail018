@@ -11,9 +11,9 @@ As a driven Computer Science Engineering student, I am deeply immersed in the wo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/your_twitter_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter_handle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your_linkedin_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin_profile" height="30" width="40" /></a>
-<a href="[https://instagram.com/your_instagram_handle](https://www.instagram.com/____suhxil018____/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_handle" height="30" width="40" /></a>
+<a href="https://x.com/MohdSuh01243861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohdSuh01243861" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-suhail-khan-11397b2b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-suhail-khan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/____suhxil018____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____suhxil018____" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
