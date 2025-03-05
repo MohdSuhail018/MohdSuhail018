@@ -13,7 +13,7 @@ As a driven Computer Science Engineering student, I am deeply immersed in the wo
 <p align="left">
 <a href="https://twitter.com/your_twitter_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter_handle" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/your_linkedin_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin_profile" height="30" width="40" /></a>
-<a href="https://instagram.com/your_instagram_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_handle" height="30" width="40" /></a>
+<a href="[https://instagram.com/your_instagram_handle](https://www.instagram.com/____suhxil018____/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_handle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
